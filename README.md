@@ -1,1 +1,1 @@
-# code-cheker
+# code-checker
